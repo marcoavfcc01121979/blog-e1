@@ -1,12 +1,12 @@
 module.exports = {
   pathPrefix: "/leonids",
   siteMetadata: {
-    title: `Leonids`,
+    title: `Marco Ferreira`,
     author: {
-      name: `@ry_zou`,
+      name: `@marcoavfcc`,
       summary: `web dev`,
     },
-    description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
+    description: `Uma barra lateral fixa simples e com duas colunas para iniciar o blog Gatsby.js.`,
     siteUrl: `https://renyuanz.github.io/leonids`,
     social: {
       twitter: `ry_zou`,
