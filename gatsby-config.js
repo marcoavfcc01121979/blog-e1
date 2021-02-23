@@ -9,7 +9,7 @@ module.exports = {
     description: `Uma barra lateral fixa simples e com duas colunas para iniciar o blog Gatsby.js.`,
     siteUrl: `https://renyuanz.github.io/leonids`,
     social: {
-      twitter: `ry_zou`,
+      twitter: `@marcoavfcc`,
     },
     defaultImage: "images/bg.jpeg",
   },
